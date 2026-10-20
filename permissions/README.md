@@ -5,3 +5,4 @@
 3-new_owner : Changes owner of hello to betty.
 4-empty : Create empty file named hello.
 5-execute : Execute permission for owner.
+6-multiple_permissions : Adds execute for owner and group, and read for others.
