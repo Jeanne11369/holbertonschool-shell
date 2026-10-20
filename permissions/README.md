@@ -7,3 +7,4 @@
 5-execute : Execute permission for owner.
 6-multiple_permissions : Add execute for owner and group, and read for others.
 7-everybody : Add execute for everyone.
+8-James_Bond : owner:none, group:none, others:everything.
