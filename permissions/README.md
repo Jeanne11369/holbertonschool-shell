@@ -9,3 +9,4 @@
 7-everybody : Add execute for everyone.
 8-James_Bond : owner:none, group:none, others:everything.
 9-John_Doe : set rwxr-x-wx.
+10-mirror_permissions : copy olleh's permissions onto hello.
