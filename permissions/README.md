@@ -11,4 +11,5 @@
 9-John_Doe : set rwxr-x-wx.
 10-mirror_permissions : copy olleh's permissions onto hello.
 11-directories_permissions : execute for everyone to the immediate subdir.
+12-directory_permissions : create my_dir with 751 permissions.
 
