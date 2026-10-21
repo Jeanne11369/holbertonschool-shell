@@ -12,4 +12,7 @@
 10-mirror_permissions : copy olleh's permissions onto hello.
 11-directories_permissions : execute for everyone to the immediate subdir.
 12-directory_permissions : create my_dir with 751 permissions.
-
+13-change_group : Change hello's group to school.
+14-change_owner_and_group : Change owner to vincent and the group owner to staff for all the files and directories in the working directory.
+15-symbolic_link_permissions : change owner of symbolic link _hello._
+16-if_only: changes hello's owner to vincent only if owned by guillaume.
