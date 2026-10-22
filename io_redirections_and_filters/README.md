@@ -17,4 +17,10 @@
 - 15-countthatword: Counts lines containing bin in /etc/passwd.
 - 16-whatsnext: Displays root matches and three following lines.
 - 17-hidethisword: Displays lines without bin in /etc/passwd.
+- 12-newest_files: Lists the 10 most recently modified entries.
+- 13-unique: Sorts input and displays words occurring exactly once.
+- 14-findthatword: Displays lines containing root in /etc/passwd.
+- 15-countthatword: Counts lines containing bin in /etc/passwd.
+- 16-whatsnext: Displays root matches and three following lines.
+- 17-hidethisword: Displays lines without bin in /etc/passwd.
 
